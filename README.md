@@ -8,7 +8,7 @@
 
 ## 📸 The Historic First Validation
 
-![First MonetizeMachine Validation](./images/first-validation-92-score.png)
+![First MonetizeMachine Validation](./proof_it_works.png)
 
 *This validation report marks the birth of the world's first AI-powered prompt quality scoring system.*
 
